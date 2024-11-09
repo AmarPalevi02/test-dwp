@@ -1,0 +1,60 @@
+{
+   "paket_harian": [
+      {
+         "id": 1,
+         "namaPaket": "Paket Internet Harian 1GB",
+         "highlight": "Rp5.000",
+         "hargaNormal": 7000,
+         "hargaDiskon": 5000,
+         "deskripsi": "Cocok untuk browsing ringan, berlaku selama 24 jam."
+      },
+      {
+         "id": 2,
+         "namaPaket": "Paket Internet Harian 2GB",
+         "highlight": "Rp9.000",
+         "hargaNormal": 12000,
+         "hargaDiskon": 9000,
+         "deskripsi": "Lebih hemat, cocok untuk pengguna media sosial, berlaku selama 24 jam."
+      },
+      {
+         "id": 3,
+         "namaPaket": "Paket Internet Harian 3GB",
+         "highlight": "Rp12.000",
+         "hargaNormal": 15000,
+         "hargaDiskon": 12000,
+         "deskripsi": "Streaming lancar, kuota besar dalam 24 jam."
+      },
+      {
+         "id": 4,
+         "namaPaket": "Paket Internet Harian 5GB",
+         "highlight": "Rp15.000",
+         "hargaNormal": 18000,
+         "hargaDiskon": 15000,
+         "deskripsi": "Paket ideal untuk pengguna aktif, berlaku selama 24 jam."
+      },
+      {
+         "id": 5,
+         "namaPaket": "Paket Internet Harian Unlimited",
+         "highlight": "Rp20.000",
+         "hargaNormal": null,
+         "hargaDiskon": 20000,
+         "deskripsi": "Akses internet tanpa batas selama 24 jam, ideal untuk semua kebutuhan."
+      },
+      {
+         "id": 6,
+         "namaPaket": "Paket Internet Harian Unlimited",
+         "highlight": "Rp20.000",
+         "hargaNormal": null,
+         "hargaDiskon": 20000,
+         "deskripsi": "Akses internet tanpa batas selama 24 jam, ideal untuk semua kebutuhan."
+      },
+      {
+         "id": 7,
+         "namaPaket": "Paket Internet Harian Unlimited",
+         "highlight": "Rp20.000",
+         "hargaNormal": null,
+         "hargaDiskon": 20000,
+         "deskripsi": "Akses internet tanpa batas selama 24 jam, ideal untuk semua kebutuhan."
+      }
+   ]
+}

@@ -1,0 +1,60 @@
+{
+   "paket_bulanan": [
+      {
+         "id": 1,
+         "namaPaket": "Paket Internet Bulanan 1GB",
+         "highlight": "Rp50.000",
+         "hargaNormal": 70000,
+         "hargaDiskon": 50000,
+         "deskripsi": "Cocok untuk browsing ringan selama 30 hari."
+      },
+      {
+         "id": 2,
+         "namaPaket": "Paket Internet Bulanan 2GB",
+         "highlight": "Rp90.000",
+         "hargaNormal": 120000,
+         "hargaDiskon": 90000,
+         "deskripsi": "Lebih hemat, cocok untuk pengguna media sosial, berlaku selama 30 hari."
+      },
+      {
+         "id": 3,
+         "namaPaket": "Paket Internet Bulanan 3GB",
+         "highlight": "Rp120.000",
+         "hargaNormal": 150000,
+         "hargaDiskon": 120000,
+         "deskripsi": "Streaming lancar, kuota besar selama 30 hari."
+      },
+      {
+         "id": 4,
+         "namaPaket": "Paket Internet Bulanan 5GB",
+         "highlight": "Rp150.000",
+         "hargaNormal": 180000,
+         "hargaDiskon": 150000,
+         "deskripsi": "Paket ideal untuk pengguna aktif selama 30 hari."
+      },
+      {
+         "id": 5,
+         "namaPaket": "Paket Internet Bulanan Unlimited",
+         "highlight": "Rp200.000",
+         "hargaNormal": null,
+         "hargaDiskon": 200000,
+         "deskripsi": "Akses internet tanpa batas selama 30 hari, ideal untuk semua kebutuhan."
+      },
+      {
+         "id": 6,
+         "namaPaket": "Paket Internet Bulanan Unlimited",
+         "highlight": "Rp200.000",
+         "hargaNormal": null,
+         "hargaDiskon": 200000,
+         "deskripsi": "Akses internet tanpa batas selama 30 hari, ideal untuk semua kebutuhan."
+      },
+      {
+         "id": 7,
+         "namaPaket": "Paket Internet Bulanan Unlimited",
+         "highlight": "Rp200.000",
+         "hargaNormal": null,
+         "hargaDiskon": 200000,
+         "deskripsi": "Akses internet tanpa batas selama 30 hari, ideal untuk semua kebutuhan."
+      }
+   ]
+}

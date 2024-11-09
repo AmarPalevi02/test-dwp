@@ -1,0 +1,180 @@
+{
+   "users": [
+      {
+         "id": 1,
+         "username": "amarpalevi",
+         "password": "lupasandi",
+         "profile": {
+            "fullName": "Amar Palevi",
+            "email": "amar@gmail.com",
+            "phoneNumber": "+628123456789",
+            "address": {
+               "street": "Jl. Merdeka No. 10",
+               "city": "Jakarta",
+               "postalCode": "12345",
+               "country": "Indonesia"
+            },
+            "accountSettings": {
+               "defaultPaymentMethod": "dana",
+               "preferredLanguage": "id",
+               "notifications": {
+                  "promo": true,
+                  "transaction": true,
+                  "reminders": false
+               }
+            },
+            "paymentDetails": {
+               "eWalletBalance": 100000,
+               "rewardPoints": 500
+            },
+            "dataUsage": {
+               "activePackage": {
+                  "packageId": 1,
+                  "packageName": "Internet Data 10GB",
+                  "remainingQuota": "5GB",
+                  "expiryDate": "2024-12-09"
+               },
+               "usageStatistics": {
+                  "totalDataUsed": "5GB",
+                  "averageDailyUsage": "200MB"
+               }
+            },
+            "favorites": [
+               {
+                  "packageId": 1,
+                  "packageName": "Internet Data 10GB",
+                  "price": 50000
+               },
+               {
+                  "packageId": 3,
+                  "packageName": "Internet Data Unlimited",
+                  "price": 150000
+               }
+            ]
+         },
+         "transactions": [
+            {
+               "transactionId": 101,
+               "status": "success",
+               "packageId": 1,
+               "amount": 50000,
+               "date": "2024-11-09",
+               "paymentMethod": "dana",
+               "details": {
+                  "items": [
+                     {
+                        "itemName": "Internet Data",
+                        "quantity": 1,
+                        "price": 50000
+                     }
+                  ],
+                  "total": 50000
+               }
+            },
+            {
+               "transactionId": 102,
+               "status": "failed",
+               "packageId": 2,
+               "amount": 90000,
+               "date": "2024-11-08",
+               "paymentMethod": "ovo",
+               "details": {
+                  "items": [],
+                  "total": 0
+               }
+            }
+         ]
+      },
+      {
+         "id": 2,
+         "username": "amar",
+         "password": "lupasandi",
+         "profile": {
+            "fullName": "Amar Sudrajat",
+            "email": "amar.sudrajat@gmail.com",
+            "phoneNumber": "+628987654321",
+            "address": {
+               "street": "Jl. Kebangsaan No. 5",
+               "city": "Bandung",
+               "postalCode": "54321",
+               "country": "Indonesia"
+            },
+            "accountSettings": {
+               "defaultPaymentMethod": "ovo",
+               "preferredLanguage": "en",
+               "notifications": {
+                  "promo": true,
+                  "transaction": false,
+                  "reminders": true
+               }
+            },
+            "paymentDetails": {
+               "eWalletBalance": 50000,
+               "rewardPoints": 300
+            },
+            "dataUsage": {
+               "activePackage": {
+                  "packageId": 4,
+                  "packageName": "Internet Data 20GB",
+                  "remainingQuota": "10GB",
+                  "expiryDate": "2024-11-30"
+               },
+               "usageStatistics": {
+                  "totalDataUsed": "10GB",
+                  "averageDailyUsage": "300MB"
+               }
+            },
+            "favorites": [
+               {
+                  "packageId": 4,
+                  "packageName": "Internet Data 20GB",
+                  "price": 100000
+               },
+               {
+                  "packageId": 5,
+                  "packageName": "Internet Data Unlimited",
+                  "price": 200000
+               }
+            ]
+         },
+         "transactions": [
+            {
+               "transactionId": 201,
+               "status": "success",
+               "packageId": 4,
+               "amount": 150000,
+               "date": "2024-11-06",
+               "paymentMethod": "dana",
+               "details": {
+                  "items": [
+                     {
+                        "itemName": "Internet Data",
+                        "quantity": 1,
+                        "price": 150000
+                     }
+                  ],
+                  "total": 150000
+               }
+            },
+            {
+               "transactionId": 202,
+               "status": "pending",
+               "packageId": 5,
+               "amount": 200000,
+               "date": "2024-11-05",
+               "paymentMethod": "pulsa",
+               "details": {
+                  "items": [
+                     {
+                        "itemName": "Internet Data",
+                        "quantity": 1,
+                        "price": 200000
+                     }
+                  ],
+                  "total": 200000
+               }
+            }
+         ]
+      }
+   ]
+}

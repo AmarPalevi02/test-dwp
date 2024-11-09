@@ -1,0 +1,28 @@
+{
+   "penawaran": [
+      {
+         "id": 1,
+         "namaPaket": "Paket Internet Bulanan 50GB",
+         "highlight": "Diskon 30%",
+         "deskripsi": "Unlimited YouTube & Instagram, cocok untuk 30 hari.",
+         "hargaNormal": 150000,
+         "hargaDiskon": 105000
+      },
+      {
+         "id": 2,
+         "namaPaket": "Promo Spesial Diskon 20%",
+         "highlight": "Diskon 20%",
+         "deskripsi": "Cocok untuk pelanggan baru, berlaku selama 30 hari.",
+         "hargaNormal": 200000,
+         "hargaDiskon": 160000
+      },
+      {
+         "id": 3,
+         "namaPaket": "Paket Internet 100GB",
+         "highlight": "Diskon 50%",
+         "deskripsi": "Akses cepat untuk streaming dan gaming, 100GB data.",
+         "hargaNormal": 250000,
+         "hargaDiskon": 125000
+      }
+   ]
+}

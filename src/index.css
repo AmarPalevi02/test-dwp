@@ -1,13 +1,23 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.overX::-webkit-scrollbar {
+   display: none;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+.sub-menu {
+   opacity: 0;
+   visibility: hidden;
+   transform: translateY(-10px);
+   transition: opacity 0.2s ease, visibility 0.2s ease, transform 0.2s ease;
+}
+
+/* Menampilkan sub-menu saat hover pada item menu */
+.menu-item:hover .sub-menu,
+.sub-menu:hover {
+   opacity: 1;
+   visibility: visible;
+   transform: translateY(0);
 }

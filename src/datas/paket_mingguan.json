@@ -1,0 +1,60 @@
+{
+   "paket_mingguan": [
+      {
+         "id": 1,
+         "namaPaket": "Paket Internet Mingguan 1GB",
+         "highlight": "Rp15.000",
+         "hargaNormal": 20000,
+         "hargaDiskon": 15000,
+         "deskripsi": "Cocok untuk browsing ringan selama 7 hari."
+      },
+      {
+         "id": 2,
+         "namaPaket": "Paket Internet Mingguan 2GB",
+         "highlight": "Rp25.000",
+         "hargaNormal": 35000,
+         "hargaDiskon": 25000,
+         "deskripsi": "Lebih hemat, cocok untuk pengguna media sosial, berlaku selama 7 hari."
+      },
+      {
+         "id": 3,
+         "namaPaket": "Paket Internet Mingguan 3GB",
+         "highlight": "Rp35.000",
+         "hargaNormal": 45000,
+         "hargaDiskon": 35000,
+         "deskripsi": "Streaming lancar, kuota besar selama 7 hari."
+      },
+      {
+         "id": 4,
+         "namaPaket": "Paket Internet Mingguan 5GB",
+         "highlight": "Rp45.000",
+         "hargaNormal": 60000,
+         "hargaDiskon": 45000,
+         "deskripsi": "Paket ideal untuk pengguna aktif selama 7 hari."
+      },
+      {
+         "id": 5,
+         "namaPaket": "Paket Internet Mingguan Unlimited",
+         "highlight": "Rp60.000",
+         "hargaNormal": null,
+         "hargaDiskon": 60000,
+         "deskripsi": "Akses internet tanpa batas selama 7 hari, ideal untuk semua kebutuhan."
+      },
+      {
+         "id": 6,
+         "namaPaket": "Paket Internet Mingguan Unlimited",
+         "highlight": "Rp60.000",
+         "hargaNormal": null,
+         "hargaDiskon": 60000,
+         "deskripsi": "Akses internet tanpa batas selama 7 hari, ideal untuk semua kebutuhan."
+      },
+      {
+         "id": 7,
+         "namaPaket": "Paket Internet Mingguan Unlimited",
+         "highlight": "Rp60.000",
+         "hargaNormal": null,
+         "hargaDiskon": 60000,
+         "deskripsi": "Akses internet tanpa batas selama 7 hari, ideal untuk semua kebutuhan."
+      }
+   ]
+}

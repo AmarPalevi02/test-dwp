@@ -1,0 +1,60 @@
+{
+   "paket_harian_teleponan": [
+      {
+         "id": 1,
+         "namaPaket": "Paket Telepon Harian 100 Menit",
+         "highlight": "Rp5.000",
+         "hargaNormal": 7000,
+         "hargaDiskon": 5000,
+         "deskripsi": "Paket telepon 100 menit untuk semua operator, berlaku selama 24 jam."
+      },
+      {
+         "id": 2,
+         "namaPaket": "Paket Telepon Harian 200 Menit",
+         "highlight": "Rp9.000",
+         "hargaNormal": 12000,
+         "hargaDiskon": 9000,
+         "deskripsi": "Paket telepon 200 menit, hemat untuk pengguna aktif telepon, berlaku selama 24 jam."
+      },
+      {
+         "id": 3,
+         "namaPaket": "Paket Telepon Harian 300 Menit",
+         "highlight": "Rp12.000",
+         "hargaNormal": 15000,
+         "hargaDiskon": 12000,
+         "deskripsi": "Bebas telepon selama 300 menit, untuk kebutuhan telepon panjang dalam 24 jam."
+      },
+      {
+         "id": 4,
+         "namaPaket": "Paket Telepon Harian 500 Menit",
+         "highlight": "Rp15.000",
+         "hargaNormal": 18000,
+         "hargaDiskon": 15000,
+         "deskripsi": "Ideal untuk pengguna telepon intens, 500 menit telepon sepanjang hari."
+      },
+      {
+         "id": 5,
+         "namaPaket": "Paket Telepon Harian Unlimited",
+         "highlight": "Rp20.000",
+         "hargaNormal": null,
+         "hargaDiskon": 20000,
+         "deskripsi": "Akses telepon tanpa batas selama 24 jam, ideal untuk komunikasi intens."
+      },
+      {
+         "id": 6,
+         "namaPaket": "Paket Telepon Harian Unlimited",
+         "highlight": "Rp20.000",
+         "hargaNormal": null,
+         "hargaDiskon": 20000,
+         "deskripsi": "Paket telepon unlimited selama 24 jam, bebas telepon ke semua nomor."
+      },
+      {
+         "id": 7,
+         "namaPaket": "Paket Telepon Harian Unlimited",
+         "highlight": "Rp20.000",
+         "hargaNormal": null,
+         "hargaDiskon": 20000,
+         "deskripsi": "Bebas telepon tanpa batas waktu, ideal untuk pengguna yang selalu terhubung."
+      }
+   ]
+}
