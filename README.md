@@ -7,7 +7,7 @@ Deskripsi singkat tentang project ini.
 Untuk menjalankan **JSON Server**, gunakan perintah berikut:
 
 ```
-**npm run server**
+npm run server
 ```
 
 ## Menjalankan App
@@ -15,5 +15,19 @@ Untuk menjalankan **JSON Server**, gunakan perintah berikut:
 Untuk menjalankan **React App**, gunakan perintah berikut:
 
 ```
-**npm run dev**
+npm run dev
+```
+
+## User 1
+
+```
+Username : amarpalevi
+password : lupasandi
+```
+
+# User 2
+
+```
+Username : amar
+password : lupasandi
 ```
